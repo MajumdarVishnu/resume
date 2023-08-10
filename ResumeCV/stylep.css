@@ -1,0 +1,104 @@
+/* Created by Peter Omienge */
+
+body {
+             background-color:#eeeeee;
+             text-align:justify;
+             font-size: 1.6rem;
+         }
+        :root{
+            padding:0px;
+            font-size:  62.5%;
+          p{
+            font-size:  62.55%;
+            color: darkblue;
+          }
+        }
+
+         h2 {
+           color: #2F5A78;
+           font-size: 55px;
+         }
+         h1{
+             color: #9f5a78;
+             font-size:55px;
+             text-align:center;
+         }
+         header p{
+             text-align:center;
+             font-size:55px;
+             text-transform:capitalize;
+             padding:30px 30px 30px 20px;
+             
+         }
+         li a{
+             text-decoration:none;
+         }
+         #top{
+             border-bottom:2px solid #9F5A78;
+             width:100%;
+             height:100px;
+             background-image:url('');
+             background-repeat:no-repeat;
+             background-position:center;
+         }
+         footer div{text-align:center;
+         color:#9f5a78;
+         }
+         h3{
+             color:#cf5a99;}
+         hr{
+             height:12px;
+             width:77%;
+             background-color:#9f5a78;
+             border:none;
+         }
+         li{
+             list-style-type:none;
+             display:inline;
+         }
+         ul {
+           padding: 0;
+           margin-top:80px;
+           width: 360%;
+         }
+         a {
+           outline: none;
+           text-decoration: none;
+           display: inline-block;
+           margin-left: 1%;
+           margin-top:1%;
+           text-align: center;
+           padding: 30px;
+           box-sizing: border-box;
+           width:39%;
+           color: white;
+           background-color: #9f5a78;
+         }
+         a:hover {
+           background: blue;
+
+         }
+         a:visited{
+             background:orange;
+         }
+         #bottom{
+             width:100%;
+         }
+         ol li{
+             display:block;
+             list-style-type:i;
+             text-align:left;
+         }
+         section-left{calc()
+            flex-direction:row-reverse;
+         }
+         nav-list {
+            width: 70px;
+            display: flex;
+            align-items: center;
+         }
+         :rightNav{
+            width: 66px;
+            text-align: right;
+            padding: 77px;
+         }
